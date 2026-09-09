@@ -17,7 +17,7 @@ const =  constant yg artinya tetap
 */
 
 let umur = 20;
-console.log(umur);
+console.log(typeof umur);
 
 const agama = "islam";
 console.log(agama);
